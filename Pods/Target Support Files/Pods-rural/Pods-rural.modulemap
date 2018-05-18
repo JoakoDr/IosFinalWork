@@ -1,0 +1,6 @@
+framework module Pods_rural {
+  umbrella header "Pods-rural-umbrella.h"
+
+  export *
+  module * { export * }
+}
